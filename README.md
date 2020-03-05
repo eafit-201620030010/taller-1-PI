@@ -15,6 +15,6 @@ git clone https://github.com/eafit-201620030010/taller1.git
 
 ### Otras Carpertas
 * [capturas]
-  contiene las cacturas de los metodos GET POST DELETE PATCH Y el Web Services
+  contiene las capturas de los metodos GET POST DELETE PATCH Y el Web Services
 * [collection-postman-metodos]
   contiene las colecciones que se exportaron de postman y pueden los metodos.
